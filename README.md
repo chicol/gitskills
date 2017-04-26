@@ -1,3 +1,3 @@
 # gitskills
-study branch
+study branch\n
 use branch
